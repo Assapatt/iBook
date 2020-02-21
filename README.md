@@ -1,2 +1,2 @@
 # iBook
-gitbook电子书
+这是GitBook自动化构建的电子书
