@@ -1,0 +1,22 @@
+{
+  "name": "ibook",
+  "version": "1.0.0",
+  "description": "这是GitBook自动化构建的电子书",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Assapatt/iBook.git"
+  },
+  "author": "zy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Assapatt/iBook/issues"
+  },
+  "homepage": "https://github.com/Assapatt/iBook#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
